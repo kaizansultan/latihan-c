@@ -1,0 +1,11 @@
+# Use the Google style guide for C
+BasedOnStyle: Google
+
+# Aturan tambahan untuk mengikuti konfigurasi .editorconfig
+IndentWidth: 4 # Menggunakan indentasi 4 spasi
+TabWidth: 4 # Menggunakan tab 4 spasi
+UseTab: Never # Tidak menggunakan tab, hanya spasi
+AllowAllArgumentsOnNextLine: false
+ColumnLimit: 0 # Membiarkan panjang baris tanpa pembatasan
+IndentCaseLabels: true # Indentasi label switch
+BreakBeforeBraces: Allman # Gaya penempatan brace: Allman (terpisah baris)

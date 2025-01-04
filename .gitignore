@@ -1,0 +1,29 @@
+# Compiled binary files
+*/bin/
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# Debugging files
+*.dSYM/
+*.log
+*.stackdump
+*.core
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.tmp
+*~
+
+# VS Code specific files
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
